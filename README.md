@@ -21,8 +21,8 @@ my modules/user build modules
 HOW SYSTEM WORKS:
 Base concept:
 Our system’s first page is a kind of login page where the authorized person or an administrator has to enter the required credentials to login. After login they can able to see a user registration page where they can enter the details of the new user after entering the details the system automatically takes the picture of the new user and stores them in the local database.
-Security or core concept:
 
+Security or core concept:
 1)Monitoring system:(It helps in improving the system’s security)
 We introduced a concept called as monitoring system, it monitors the authorized person that he was entering the correct credentials or not, if they enter the correct credentials the system won’t disturbs them but in case any incorrect credentials are entered for couple of time’s then the monitoring system automatically activates and thinks that someone was trying to get access without the proper permission of authorized administrator or proper credentials. Then it warns the person and clicks the snap of the that person and the program closes.
 Then the system automatically sends the snap along with location, data and time of the person where he tried to access the system via Email and WhatsApp.
