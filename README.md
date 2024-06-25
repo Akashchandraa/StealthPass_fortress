@@ -10,8 +10,7 @@ inbuild modules/libraries
 9) PIL (pillow)
 10) CRYPTOGRAPHY 
 11) SMTP
-12) TWILO
-13) EMAIL
+12) EMAIL
 
 my modules/user build modules
 1) ENFILE
