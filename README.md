@@ -25,9 +25,11 @@ Our system’s first page is a kind of login page where the authorized person or
 Security or core concept:
 1)Monitoring system:(It helps in improving the system’s security)
 We introduced a concept called as monitoring system, it monitors the authorized person that he was entering the correct credentials or not, if they enter the correct credentials the system won’t disturbs them but in case any incorrect credentials are entered for couple of time’s then the monitoring system automatically activates and thinks that someone was trying to get access without the proper permission of authorized administrator or proper credentials. Then it warns the person and clicks the snap of the that person and the program closes.
-Then the system automatically sends the snap along with location, data and time of the person where he tried to access the system via Email and WhatsApp.
+Then the system automatically sends the snap along with location,IP address, data and time of the person where he tried to access the system via Email, 
 With this information it is easy to catch the person who tried to access the system and we can make a police complaint about illegal action’s that person made with proper evidence he can’t escape because the system also send’s the IP address of the victim so its make the police men easy to catch the victim.
 
 2)Encrypting System: (it use’s Cryptography algorithm for encryption)
-Here the user details are encrypted using Cryptography algorithm (Symmetric encryption) which used one key to encrypted and decrypt the file, only authorized administrator consists of this key to decrypt the user details file to see the details of the users.
-Without the actual key that we used to encrypt the file it’s not possible to decrypt the file.  Unless you decrypt the file its impossible for humans to read the data of the users.so the details of the users are highly Encrypted and Safe.
+Here the user details are encrypted using Cryptography algorithm (Symmetric encryption) which uses the same key to encrypted and decrypt the file. 
+Only authorized administrator consists of this key to decrypt the user details file to see the details of the users.
+Without the actual key that we used to encrypt the file it’s not possible to decrypt the file. 
+Unless you decrypt the file its impossible for humans to read the data of the users.so the details of the users are highly Encrypted and Safe.
