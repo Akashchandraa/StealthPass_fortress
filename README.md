@@ -16,6 +16,8 @@ my modules/user build modules
 1) ENFILE
 2) EMAIL_CREDENTIALS
 3) SEND_EMAIL
+   
+Note:you have to use your own email and it's password. you can use them by passing them in sendemail.py file
 
 HOW SYSTEM WORKS:
 Base concept:
